@@ -44,3 +44,4 @@ Shortcuts that i know of:
 Shortcuts I would like to start using:
 - Ctrl + Tab (switch between tabs on the same window)
 - Alt + Tab (choose a different window)
+## For CLI commands, refer to the [CLI commands](cli.md).
